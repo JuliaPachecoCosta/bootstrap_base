@@ -1,6 +1,6 @@
 # bootstrap_base
 <p align="center">
-  <img src="Bootstrap imagem.png" alt="Preview da Aula de bootstrap_base" width="100%">
+  <img src="Bootstrap_imagem.png" alt="Preview da Aula de bootstrap_base" width="100%">
 </p>
 
 ## 💻 Sobre o bootstrap_base
