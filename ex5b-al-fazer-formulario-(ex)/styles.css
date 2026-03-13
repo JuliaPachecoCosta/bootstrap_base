@@ -1,0 +1,63 @@
+/* Container Principal */
+.custom-form {
+    background: linear-gradient(145deg, #FFC94F, #FF1493);
+    padding: 2rem;
+    border-radius: 15px;
+}
+
+.form-label {
+    color: #fff;
+    font-weight: bold;
+}
+
+/* --- ESTILO DOS ÍCONES --- */
+.custom-icon {
+    border: 3px solid #00BFFF !important;
+    border-right: none !important;
+    border-radius: 15px 0 0 15px !important;
+    padding: 0.75rem;
+}
+
+/* Cor específica do fundo do ícone de Email (Azul) */
+.bg-email {
+    background-color: #00BFFF !important;
+}
+
+/* Cor específica do fundo do ícone de Senha (Rosa) */
+.bg-senha {
+    background-color: #DB7093 !important;
+    border-color: #DB7093 !important; /* Muda a borda para combinar */
+}
+
+/* --- ESTILO DOS INPUTS --- */
+.custom-input {
+    border: 3px solid #00BFFF !important;
+    border-left: none !important;
+    border-radius: 0 15px 15px 0 !important;
+    background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Efeito ao clicar no input */
+.custom-input:focus {
+    border-color: #FF1493 !important;
+    box-shadow: none !important;
+    background-color: #fff !important;
+}
+
+/* --- ESTILO DO BOTÃO ENVIAR --- */
+.custom-button {
+    background: linear-gradient(45deg, #ff8dd1, #d74790) !important;
+    color: white !important;
+    border: none !important;
+    padding: 0.8rem 2.5rem !important;
+    border-radius: 50px !important;
+    font-weight: bold !important;
+    margin-top: 1rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.custom-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 15px rgba(215, 71, 144, 0.4);
+    filter: brightness(1.1);
+}
